@@ -1,13 +1,13 @@
 :root {
   /* Colors
   ____________________*/
-  --color-primary: #00fff2;
-  --color-primary-dark: #00ffff;
+  --color-primary: #6d0f95;
+  --color-primary-dark: #6d0f95;
   --color-bg-primary: #000000;
   --color-bg-secondary: #242424;
   --color-bg-footer: #1515157c;
   --color-white: #ffffff;
-  --color-text: #04e2ff;
+  --color-text: #6d0f95;
   --color-border: #373737;
 
   /* Font & Typography

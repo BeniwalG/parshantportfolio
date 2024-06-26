@@ -103,8 +103,8 @@ var Body = "name:" + name +
  Email.send({
 
   SecureToken : "69be9e8a-ee3b-4c21-b05e-f7a1905cacea ",
-     To: "lavish637728@gmail.com",
-     From : "lavish637728@gmail.com",
+     To: "beniwalg004@gmail.com",
+     From : "beniwalg004@gmail.com",
      Subject : Sub,
      Body : Body,
   }).then( message => {
